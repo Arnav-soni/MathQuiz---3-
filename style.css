@@ -1,0 +1,55 @@
+#user_name_1{
+    background-color:white;
+    margin-top: 110;
+    margin-left: 870;
+    width: 500px;
+    height: 60px;
+    font-size: larger;
+    border-color: transparent;
+    border-width: 0%;
+}
+#user_name_2{
+    background-color:white;
+    margin-top: 10;
+    margin-left: 870;
+    width: 500px;
+    height: 60px;
+    font-size: larger;
+    border-color: transparent;
+    border-width: 0ch;
+}
+#button_login{
+    background-color:transparent;
+    margin-top: 50;
+    margin-left: 870;
+    width: 490px;
+    height: 60px;
+    font-size: larger;
+    border-color: transparent;
+}
+#fake_twitter{
+    background-color:transparent;
+    margin-top: 110;
+    margin-left: 870;
+    width: 490px;
+    height: 60px;
+    font-size: larger;
+    border-color: transparent;
+    
+}
+
+#fake_facebook{
+    background-color:transparent;
+    margin-top: 20;
+    margin-left: 870;
+    width: 490px;
+    height: 60px;
+    font-size: larger;
+    border-color:transparent;
+    
+}
+body{
+    background-image:  url(template.jpg);
+    background-position: center;
+    background-size: cover;
+}

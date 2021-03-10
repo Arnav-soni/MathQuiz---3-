@@ -1,0 +1,9 @@
+body{
+    background-image:  url(Game_template.png);
+    background-position: center;
+    background-size: cover;
+}
+
+#word2{
+    color: aqua;
+}
